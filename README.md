@@ -6,7 +6,7 @@
 | **Blister** | **Ampoule** | **Vial** |
 | ![Blister](Images/Standard/Blister.jpg) | ![Ampoule](Images/Standard/Ampoule.jpg) | ![Vial](Images/Standard/Vial.jpg) |
 
-    > **Portfolio Showcase**: This repository contains documentation for a project I developed during my employment. Therefore, source code is not available. This `README` serves as a high-level overview of the project, its key features, and my development role.
+> **Portfolio Showcase**: This repository contains documentation for a project I developed during my employment. Therefore, source code is not available. This `README` serves as a high-level overview of the project, its key features, and my development role.
 
 ## Project Narrative & My Role
 
