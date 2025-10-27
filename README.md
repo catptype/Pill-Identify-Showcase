@@ -1,4 +1,4 @@
-# Pill Identification System Showcase
+# Pill Identification System
 
 | **Tablet** | **Capsule** | **Box** |
 | :---: | :---: | :---: |
@@ -10,19 +10,17 @@
 
 ## Project Narrative & My Role
 
-As the core developer on this project, I was tasked with building a comprehensive pill identification system from the ground up. The initial scope was to identify **tablets** and **capsules**, but the project was later expanded to include challenging identification of **medicine boxes**, **blisters**, **ampoules**, and **vials**.
+As the core developer, I was tasked with building a real-time Pill Identification system from the ground up. The project's initial scope of identifying **tablets** and **capsules** was quickly expanded, challenging me to create a more ambitious system capable of recognizing a diverse range of items including **medicine boxes, blisters, ampoules, and vials**. I was responsible for the **entire technical execution**, from research and data collection to model development and backend engineering.
 
-I was responsible for the **end-to-end technical development of the core system**, from initial data collection and model training to full-stack web development and providing the necessary backend services for the mobile application.
+My key challenges and responsibilities included:
 
-My key contributions include:
+*   **Custom Dataset Curation:** No public dataset existed for this specific task. I single-handedly addressed this by **photographing, processing, and labeling a comprehensive dataset** from medicines provided by the company, forming the foundation of the AI's accuracy.
+*   **AI Engine Development:** I developed the **core computer vision engine using YOLO (Ultralytics)** to detect and classify all specified medicine forms, from simple pills to complex packaging.
+*   **Integrating Diverse Object Recognition:** The mid-project expansion from pills to packaging was a major technical hurdle. This required me to **re-architect the computer vision pipeline**, moving it beyond simple shape and color analysis to a more complex system capable of identifying fundamentally different features, such as **printed text on boxes, the transparency of ampoules, and the unique structure of blister packs**.
+*   **Full-Stack System Architecture:** I designed the **end-to-end system workflow** and built a robust backend with **Django**. This included creating a functional frontend interface used for crucial debugging and visual validation of the AI engine's performance.
+*   **Mobile API Integration:** I engineered and provided a real-time **WebSocket API** to the mobile development team, enabling them to integrate the AI's identification results seamlessly into the production user-facing application.
 
-*   **Full-Stack Development (Backend):** I developed the core pill identification engine and the backend of the web application.
-*   **Full-Stack Development (Frontend):** I created a web-based frontend for debugging and testing the backend system.
-*   **API & Mobile Integration:** I collaborated with the mobile developer to provide a WebSocket-based payload for the production mobile application.
-*   **Dataset Creation:** I was responsible for collecting and preparing the image dataset of various medicines for training the machine learning model.
-*   **System Design:** I designed the end-to-end workflow of the identification system.
-
-This project was a significant opportunity for me to architect and build a complex AI application from concept to a functional prototype, which was demonstrated twice in public showcases.
+This project was a fantastic opportunity to take a complex idea from a concept to a high-fidelity prototype, which was successfully **demonstrated at two major public technology events**.
 
 ## Tech Stack
 
