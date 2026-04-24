@@ -1,12 +1,21 @@
-# Pill Identification System
+<div align="center">
+  <h1>Pill Identification System</h1>
+
+  <!-- Portfolio Badges -->
+  <img src="https://img.shields.io/badge/Status-Case%20Study-blue?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Role-Core%20Developer-brightgreen?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Project-Commercial%20Proprietary-orange?style=for-the-badge" alt="Project">
+
+  <p>An enterprise-grade AI solution for high-accuracy pharmaceutical identification and packaging verification.</p>
+</div>
+
+> **Portfolio Note**: This repository serves as a professional showcase of architecture, design, and technical implementation. The source code is proprietary and not included in this repository.
 
 | **Tablet** | **Capsule** | **Box** |
 | :---: | :---: | :---: |
 | ![Tablet](Images/Standard/Tablet.jpg) | ![Capsule](Images/Standard/Capsule.jpg) | ![Box](Images/Standard/Box.jpg) |
 | **Blister** | **Ampoule** | **Vial** |
 | ![Blister](Images/Standard/Blister.jpg) | ![Ampoule](Images/Standard/Ampoule.jpg) | ![Vial](Images/Standard/Vial.jpg) |
-
-> **Portfolio Showcase**: This repository contains documentation for a project I developed during my employment. Therefore, source code is not available. This `README` serves as a high-level overview of the project, its key features, and my development role.
 
 ## Project Narrative & My Role
 
